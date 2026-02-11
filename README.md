@@ -78,6 +78,11 @@ Children's Hospital of New Orleans | `chnola`
 Rady Children's Hospital | `rady`
 Children's Hospital Los Angeles |	`chla`
 Monroe Carell Jr. Children's Hospital at Vanderbilt |	`vandy`
+Children’s Healthcare of Atlanta, Arthur M Blank Hospital |	`choablank`
+Children's Memorial Hermann Hospital |	`cmhh`
+Children's Hospital of New York Morgan Stanley Children's Hospital (Columbia) |	`nypcolumbia`
+Children's Hospital of New York Komansky Children's Hospital (Cornell) |	`nypcornell`
+
 
 ## Geomarker Methods
 
